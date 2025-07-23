@@ -1,0 +1,21 @@
+[project]
+name = "zhihu-android"
+version = "0.1.0"
+description = "A sophisticated reverse engineering solution for Zhihu Android App."
+authors = [
+    {name = "Jay",email = "lostjaychi@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "curl-cffi (>=0.12.0,<0.13.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry.group.dev.dependencies]
+autopep8 = "^2.3.2"
+
