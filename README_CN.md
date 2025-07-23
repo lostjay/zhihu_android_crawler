@@ -2,6 +2,11 @@
 
 一个用于知乎 Android 应用的复杂逆向工程解决方案，用于计算 API 认证所需的 `x-zse-96` 参数。该项目提供了绕过知乎签名验证系统的完整实现。
 
+## 🌐 官方链接
+
+- **官方网站**: [https://lostjay.xyz/gitea/github/zhihu_android_crawler](https://lostjay.xyz/gitea/github/zhihu_android_crawler)
+- **GitHub 镜像**: [https://github.com/lostjay/zhihu_android_crawler](https://github.com/lostjay/zhihu_android_crawler)
+
 [English](README.md) | [中文文档](README_CN.md)
 
 ## 🚀 功能特性

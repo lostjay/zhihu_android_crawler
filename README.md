@@ -2,6 +2,11 @@
 
 A sophisticated reverse engineering solution for Zhihu Android App that calculates the `x-zse-96` parameters required for API authentication. This project provides a complete implementation for bypassing Zhihu's signature verification system.
 
+## 🌐 Official Links
+
+- **Official Website**: [https://lostjay.xyz/gitea/github/zhihu_android_crawler](https://lostjay.xyz/gitea/github/zhihu_android_crawler)
+- **GitHub Mirror**: [https://github.com/lostjay/zhihu_android_crawler](https://github.com/lostjay/zhihu_android_crawler)
+
 [中文文档](README_CN.md) | [English](README.md)
 
 ## 🚀 Features
