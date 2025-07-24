@@ -244,9 +244,3 @@ python -m unittest discover test
 ---
 
 **注意**: 本项目需要正确设置 Unidbg 环境和 Maven 的 GPG 密钥。请仔细按照安装说明操作，确保所有组件正常工作。
-
-## 请我喝奶茶
-
-如果您觉得这个项目有帮助，欢迎通过微信支付请作者喝奶茶！
-
-![微信支付二维码](https://lostjay.xyz/wechatpay) 

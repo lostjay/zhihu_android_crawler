@@ -244,9 +244,3 @@ For issues and questions:
 ---
 
 **Note**: This project requires proper setup of the Unidbg environment and GPG keys for Maven. Follow the installation instructions carefully to ensure all components work correctly.
-
-## Buy Me a Milk Tea
-
-If you find this project helpful, feel free to buy the author a milk tea via WeChat Pay!
-
-![WeChat Pay QR Code](https://lostjay.xyz/wechatpay)
