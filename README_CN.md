@@ -9,6 +9,39 @@
 
 [English](README.md) | [中文文档](README_CN.md)
 
+## 📦 仓库信息
+
+### 公开仓库限制
+
+由于某些限制，完整的源代码无法完全公开。当前的公开仓库仅包含用于演示的部分代码。
+
+### 获取完整代码
+
+要获取包含所有功能和实现的完整源代码：
+
+1. **前置条件**: 首先安装 Git LFS
+
+2. **克隆完整仓库**:
+   ```bash
+   git clone https://lostfan:{{your token here}}@lostjay.xyz/gitea/github/zhihu_android_crawler-release.git
+   ```
+
+3. **解压完整代码**:
+   ```bash
+   unzip zhihu_android_crawler.zip
+   ```
+
+**注意**: 将 `{{your token here}}` 替换为您的实际访问令牌。请联系维护者获取访问凭据。
+
+### 完整代码包含内容
+
+- 签名生成算法的完整实现
+- 完整的 Android 原生库模拟
+- 所有工具函数和辅助脚本
+- 全面的测试套件
+- 生产就绪的配置
+- 额外的文档和示例
+
 ## 🚀 功能特性
 
 - **签名生成**: 计算知乎 API 请求的 `x-zse-96` 参数

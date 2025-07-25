@@ -9,6 +9,39 @@ A sophisticated reverse engineering solution for Zhihu Android App that calculat
 
 [中文文档](README_CN.md) | [English](README.md)
 
+## 📦 Repository Information
+
+### Public Repository Limitations
+
+Due to certain restrictions, the complete source code cannot be made fully public. The current public repositories contain only partial code for demonstration purposes.
+
+### Accessing Complete Code
+
+To get the complete source code with all features and implementations:
+
+1. **Prerequisites**: Install Git LFS first
+
+2. **Clone the complete repository**:
+   ```bash
+   git clone https://lostfan:{{your token here}}@lostjay.xyz/gitea/github/zhihu_android_crawler-release.git
+   ```
+
+3. **Extract the complete code**:
+   ```bash
+   unzip zhihu_android_crawler.zip
+   ```
+
+**Note**: Replace `{{your token here}}` with your actual access token. Contact the maintainer to obtain access credentials.
+
+### What's Included in Complete Code
+
+- Full implementation of signature generation algorithms
+- Complete Android native library emulation
+- All utility functions and helper scripts
+- Comprehensive test suites
+- Production-ready configurations
+- Additional documentation and examples
+
 ## 🚀 Features
 
 - **Signature Generation**: Calculates `x-zse-96` parameters for Zhihu API requests
